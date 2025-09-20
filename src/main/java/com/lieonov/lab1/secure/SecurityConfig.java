@@ -20,5 +20,5 @@ public SecurityFilterChain authorizationServerSecurityFilterChain(HttpSecurity h
             );
 
     return http.build();
-}
+    }
 }
